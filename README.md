@@ -1,11 +1,11 @@
 # ETL
 ## Overview 
-Extract Transform Load (ETL) is an important part of data managemnt process.  In ETL process data is extracted from data sources and cleaned and moved to a central host. The exact steps in that process might differ from one ETL tool to the next, but the end result is the same. The goal of ETL is to present data in a format that could easily be summarized and displayed to decision makers. In this assignment the three steps Extract, Transform, and Load was achived by four deliverables. 
+Extract, Transform, and Load (ETL) is an important part of the data management process.  In ETL process data extracts from data sources and cleaned and moved to a central host. The exact steps in that process might differ from one ETL tool to the next, but the result is the same. The goal of ETL is to present data in a format that could easily be summarized and displayed to decision makers. In this assignment the three steps Extract, Transform, and Load was achieved by four deliverables. 
 
 ##Results 
 
 #### ETL Function Test
-- Data is extracted from CSV files and jason to Pandas dataframe
+- Data is extracted from CSV files and Jason to Pandas dataframe
 - goal was to create three dataframe 
     - wiki_movies_df
     - kaggle_matatada
@@ -23,7 +23,9 @@ Extract Transform Load (ETL) is an important part of data managemnt process.  In
      - A dataframe movies_with_ratings_df was created
 
 #### Create the Movie Database
-- this is the Load function of ETL where data was loaded into a database.      
-- Deliverrable here is Movies.png to show that data was sucessfully loaded 
+- This is the Load function of ETL where data were loaded into a database.    
+- Deliverable here is Movies.png to show that data was successfully loaded
+     
+ 
 ![movies.png](https://github.com/h4mm4d/ETL/blob/main/Resources/movies_query.PNG?raw=true)
 ![ratings.png](https://github.com/h4mm4d/ETL/blob/main/Resources/ratings_query.png?raw=true)
