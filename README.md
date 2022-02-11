@@ -25,4 +25,5 @@ Extract Transform Load (ETL) is an important part of data managemnt process.  In
 #### Create the Movie Database
 - this is the Load function of ETL where data was loaded into a database.      
 - Deliverrable here is Movies.png to show that data was sucessfully loaded 
-![movies.png][]
+![movies.png](https://github.com/h4mm4d/ETL/blob/main/Resources/movies_query.PNG?raw=true)
+![ratings.png](https://github.com/h4mm4d/ETL/blob/main/Resources/ratings_query.png?raw=true)
